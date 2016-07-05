@@ -17,6 +17,17 @@ namespace fibonacci
                 return 1;
             return fibo(x - 1) + fibo(x - 2);
         }
+
+        public static int tribo(int x)
+        {
+            return 0;
+        }
+
+        public static int tetra(int x)
+        {
+            return 0;
+        }
+
         public static void tablica(int x)
         {
             int[] tab = new int[x+1];
