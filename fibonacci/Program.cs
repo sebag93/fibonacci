@@ -57,6 +57,8 @@ namespace fibonacci
             Console.WriteLine("1 - ciag fibonacciego");
             Console.WriteLine("2 - silnia");
             Console.WriteLine("3 - logowanie do bazy");
+            Console.WriteLine("");
+            Console.WriteLine("");
             int znak;
             znak = int.Parse(Console.ReadLine());
             switch (znak)
