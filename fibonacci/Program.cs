@@ -20,13 +20,11 @@ namespace fibonacci
 
         public static int tribo(int x)
         {
-
             return 0;
         }
 
         public static int tetra(int x)
         {
-
             return 0;
         }
 
