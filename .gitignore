@@ -1,0 +1,4 @@
+/.vs/fibonacci/v14/*.suo
+/fibonacci/bin/Debug
+/fibonacci/obj/Debug
+/fibonacci/*.user
