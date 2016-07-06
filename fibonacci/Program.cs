@@ -30,9 +30,9 @@ namespace fibonacci
 
         public static void tablica(int x)
         {
-            int[] tab = new int[x+1];
+            int[] tab = new int[x + 1];
             if (x == 0)
-            {   
+            {
                 tab[0] = 0;
             }
             if (x == 1)
@@ -50,9 +50,9 @@ namespace fibonacci
                 }
             }
             Console.WriteLine("kolejne wyrazy ciagu:");
-            for(int i=0; i<=x; i++)
+            for (int i = 0; i <= x; i++)
             {
-                Console.WriteLine(i+": "+tab[i]);
+                Console.WriteLine(i + ": " + tab[i]);
             }
         }
 
@@ -60,7 +60,7 @@ namespace fibonacci
         {
             if (x == 0)
                 return 1;
-            return x * silnia(x-1);
+            return x * silnia(x - 1);
         }
 
         static void Main(string[] args)
@@ -122,14 +122,16 @@ namespace fibonacci
                         {
                             Console.WriteLine(e.Message);
                         }
-                        
+
                         break;
                     }
-                default: Console.WriteLine("NIE MA TAKIEJ OPCJI");
+                default:
+                    Console.WriteLine("NIE MA TAKIEJ OPCJI");
                     break;
             }
-            
+
             Console.Read();
         }
 
     }
+}
