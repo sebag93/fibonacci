@@ -124,7 +124,7 @@ namespace fibonacci
                         break;
                     }
                 default:
-                    Console.WriteLine("NIE MA TAKIEJ OPCJ I");
+                    Console.WriteLine("N IE M A TA KIEJ OPCJ I");
                     break;
             }
 
