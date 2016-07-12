@@ -124,7 +124,7 @@ namespace fibonacci
                         break;
                     }
                 default:
-                    Console.WriteLine("N IE M A TA KIEJ OPCJ I");
+                    Console.WriteLine("N IE M A TA KIEJ O P C J I");
                     break;
             }
 
