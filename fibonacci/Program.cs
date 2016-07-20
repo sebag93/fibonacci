@@ -125,7 +125,7 @@ namespace fibonacci
                     }
                 default:
                     Console.WriteLine("## #");
-                    Console.WriteLine("#ty");
+                    Console.WriteLine("#tysdasd");
                     Console.WriteLine("a 12 123");
                     break;
             }
