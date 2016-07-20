@@ -125,7 +125,7 @@ namespace fibonacci
                     }
                 default:
                     Console.WriteLine("## #");
-                    Console.WriteLine("#123");
+                    Console.WriteLine("#");
                     Console.WriteLine("a 12 123");
                     break;
             }
