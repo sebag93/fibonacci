@@ -124,7 +124,7 @@ namespace fibonacci
                         break;
                     }
                 default:
-                    Console.WriteLine("## 222aaa1 ");
+                    Console.WriteLine("## 222aaa1  ");
                     Console.WriteLine("#weq2d");
 
                     break;
