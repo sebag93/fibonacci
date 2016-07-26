@@ -124,7 +124,7 @@ namespace fibonacci
                         break;
                     }
                 default:
-                    Console.WriteLine("##");
+                    Console.WriteLine("##s");
                     Console.WriteLine("#  2s 23w eq2d");
                      
                     break;
