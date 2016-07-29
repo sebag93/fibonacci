@@ -125,7 +125,7 @@ namespace fibonacci
                     }
                 default:
                     Console.WriteLine("##swwssssssssssaa");
-                    Console.WriteLine("#  2s sw eq2d");
+                    Console.WriteLine("# w eq2d");
                      
                     break;
             }
